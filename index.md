@@ -1,4 +1,4 @@
-## Day 1
+## Notes
 
 - [Accessibility and SEO](2018-Carie_Fisher-SEO_And_A11Y.md) - Carrie Fisher
 - [Screen reader accessibility](2018-Derek_Featherstone-Screen_Reader_Accessibility.md) - Derek Featherstone
@@ -6,11 +6,13 @@
 - [Accessibility Switch](2018-Ian_Hamilton-Accessibility_Switch.md) - Ian Hamilton
 - [Server low vision and seniors](2018-Sassy_Outwater-Server_Low_Vision_And_Seniors.md) - Sassy Outwater
 
-## Day 2
+## Other years
 
-## End Notes
+- [2019 conference notes](https://madebyhector.github.io/a11yTOConf2019/)
 
-This notes were taken during the #a11yTO Conference in Toronto.  
+## End comment by author
+
+These notes were taken during the #a11yTO Conference in Toronto.  
 I apologize if some of them don't make sense, taking notes during a conference is complicated & English is my second language.
 
 If you:
