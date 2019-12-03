@@ -1,6 +1,6 @@
 ## Day 1
 
-- [Accessibility and SEO](2018-Carrie_Fisher-SEO_And_A11Y.md) - Carrie Fisher
+- [Accessibility and SEO](2018-Carie_Fisher-SEO_And_A11Y.md) - Carrie Fisher
 - [Screen reader accessibility](2018-Derek_Featherstone-Screen_Reader_Accessibility.md) - Derek Featherstone
 - [Data Verbalization](2018-Doug_Schepers-Data_Verbalization.md) - Doug Schepers
 - [Accessibility Switch](2018-Ian_Hamilton-Accessibility_Switch.md) - Ian Hamilton
