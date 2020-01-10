@@ -16,7 +16,7 @@
 
 ## Other years
 
-- [2019 conference notes](https://madebyhector.github.io/a11yTOConf2019/)
+- [2019 conference notes](https://hecosbrod.github.io/a11yTOConf2019/)
 
 ## End comment by author
 
