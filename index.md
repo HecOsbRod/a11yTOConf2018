@@ -16,7 +16,8 @@
 
 ## Other years
 
-- [2019 conference notes](https://hecosbrod.github.io/a11yTOConf2019/)
+- [2019 conference notes](https://hecosbornerod.github.io/a11yTOConf2019/)
+- [2020 conference notes](https://hecosbornerod.github.io/a11yTOConf2020/)
 
 ## End comment by author
 
@@ -30,6 +31,6 @@ If you:
 - or did you see any typos (there will be many)...
 - or do you want to collaborate?
 
-... please reach out to me at [@HecOsbRod](http://www.twitter.com/HecOsbRod)
+... please reach out to me at [@HecOsborneRod](http://www.twitter.com/HecOsborneRod)
 
 Thanks for the amazing #a11y Community in TO.
