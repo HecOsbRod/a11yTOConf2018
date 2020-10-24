@@ -2,7 +2,7 @@
 
 Speaker: Carie Fisher (Deque University)  
 Twitter: [@cariefisher](https://twitter.com/cariefisher)  
-Slides: https://noti.st/cehfisher/pyoOnT (LINK DOES NOT WORK)
+Slides: [https://noti.st/cariefisher/pyoOnT/finding-the-place-where-accessibility-and-seo-happily-co-exist](https://noti.st/cariefisher/pyoOnT/finding-the-place-where-accessibility-and-seo-happily-co-exist)
 
 \$650B invested on SEO (America)
 
